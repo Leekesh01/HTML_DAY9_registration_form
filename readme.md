@@ -4,7 +4,7 @@ This project demostrates core web form structure using plain HTML.
 
 Features:
 
-Built in HTML elements (<form>,<label>, <input>, <button>)
+Built in HTML elements (form, label, input, button)
 
 Usage:
 
